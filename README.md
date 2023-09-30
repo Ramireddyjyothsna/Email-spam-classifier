@@ -1,1 +1,1 @@
-# Email-spam-classifier A ML App
+# Email-spam-classifier ML Project
